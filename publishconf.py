@@ -27,7 +27,6 @@ DEFAULT_LANG = u'zh'
 DELETE_OUTPUT_DIRECTORY = True
 
 SUMMARY_MAX_LENGTH = 20
-SUMMARY_END_MARKER = "<!-- more -->" # keep compatible with octopress
 
 # Category
 USE_FOLDER_AS_CATEGORY = True
@@ -56,6 +55,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 PLUGIN_PATHS = ["/home/cosmoslx/github/pelican-plugins"]
 PLUGINS = ["cjk-auto-spacing", "gravatar", "summary", "representative_image",
            "read_more_link",]
+SUMMARY_END_MARKER = "<!-- more -->" # keep compatible with octopress
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
