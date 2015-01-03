@@ -38,8 +38,8 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Theme
 #THEME = 'SoMA2'
-#THEME = 'Responsive-Pelican'
-THEME = 'bold'
+THEME = 'Responsive-Pelican'
+#THEME = 'bold'
 TYPOGRIFY = True
 #CSS_FILE = "wide.css"
 
