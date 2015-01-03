@@ -1,7 +1,7 @@
 Title: 小v的sleep掉电bug根本原因分析和解决
 Date: 2012-02-04 15:23
 Slug: veer-sleep-bug
-Category: Hardware
+Category: Play
 
   hi~各位机油,龙年快乐啊,从2011年的圣诞的那天开始我拥抱veer,走上webos之路,各位煮机网的机油都给我提供了大量的帮助,现在是我小小贡献的时候了.废话不多说,进入正题.
 

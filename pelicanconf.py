@@ -8,7 +8,8 @@ RELATIVE_URLS = True
 
 AUTHOR = u'cosmoslx'
 AUTHOR_EMAIL = 'cosmoslx@gmail.com'
-SITENAME = u'Cosmos of Cosmoslx'
+#SITENAME = u'Cosmos of Cosmoslx'
+SITENAME = u'A Ordinary Boy, A Marvelous Toy'
 SITESUBTITLE = u'Story about a ordinary boy who want to build a marvelous toy'
 SITESUBTITLES = ('A ordinary boy', 'build a marvelous toy')
 SITEURL = 'http://blog.cosmoslx.me'
@@ -25,9 +26,11 @@ SUMMARY_MAX_LENGTH = 20
 # Theme
 #THEME = 'SoMA2'
 #THEME = 'Responsive-Pelican'
-THEME = 'bold'
-#CSS_FILE = "wide.css"
+#THEME = 'bold'
+THEME = 'franticworld'
+#THEME = 'fresh'
 TYPOGRIFY = True
+#CSS_FILE = "wide.css"
 
 # PATH
 PATH = 'content'

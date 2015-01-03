@@ -13,7 +13,8 @@ from pelicanconf import *
 # Basic
 AUTHOR = u'cosmoslx'
 AUTHOR_EMAIL = 'cosmoslx@gmail.com'
-SITENAME = u'Cosmos of Cosmoslx'
+#SITENAME = u'Cosmos of Cosmoslx'
+SITENAME = u'A Ordinary Boy, A Marvelous Toy'
 SITESUBTITLE = u'Story about a ordinary boy who want to build a marvelous toy'
 SITESUBTITLES = ('A ordinary boy', 'build a marvelous toy')
 SITEURL = 'http://blog.cosmoslx.me'
@@ -37,8 +38,7 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Theme
-#THEME = 'SoMA2'
-THEME = 'Responsive-Pelican'
+THEME = 'franticworld'
 #THEME = 'bold'
 TYPOGRIFY = True
 #CSS_FILE = "wide.css"
