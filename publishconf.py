@@ -41,8 +41,8 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Theme
-THEME = 'franticworld'
-#THEME = 'bold'
+#THEME = 'franticworld'
+THEME = 'bold'
 TYPOGRIFY = True
 #CSS_FILE = "wide.css"
 
@@ -67,5 +67,5 @@ SOCIAL = (('about me', 'http://about.me/cosmoslx'),
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = "cosmoslx-blog"
+GOOGLE_ANALYTICS = "UA-58180786-1"
