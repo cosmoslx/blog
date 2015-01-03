@@ -39,8 +39,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Plugin
 PLUGIN_PATHS = ["/home/cosmoslx/github/pelican-plugins"]
-PLUGINS = ["cjk-auto-spacing", "gravatar", "summary", "representative_image",
-           "read_more_link",]
+PLUGINS = ["cjk-auto-spacing", "gravatar", "summary",]
 SUMMARY_END_MARKER = "<!-- more -->" # keep compatible with octopress
 
 # Feed generation is usually not desired when developing
