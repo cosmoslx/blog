@@ -4,15 +4,16 @@ from __future__ import unicode_literals
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-#LOAD_CONTENT_CACHE = False
+LOAD_CONTENT_CACHE = False
 
 AUTHOR = u'cosmoslx'
 AUTHOR_EMAIL = 'cosmoslx@gmail.com'
 #SITENAME = u'Cosmos of Cosmoslx'
 SITENAME = u'A Ordinary Boy, A Marvelous Toy'
 SITESUBTITLE = u'Story about a ordinary boy who want to build a marvelous toy'
-SITESUBTITLES = ('A ordinary boy', 'build a marvelous toy')
+SITESUBTITLES = ('A Ordinary Boy', 'A Marvelous Toy')
 SITEURL = 'http://blog.cosmoslx.me'
+TOYURL = 'http://github.com/cosmoslx/blog'
 
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = 'General'
@@ -26,8 +27,8 @@ SUMMARY_MAX_LENGTH = 20
 # Theme
 #THEME = 'SoMA2'
 #THEME = 'Responsive-Pelican'
-#THEME = 'bold'
-THEME = 'franticworld'
+THEME = 'bold'
+#THEME = 'franticworld'
 #THEME = 'fresh'
 TYPOGRIFY = True
 #CSS_FILE = "wide.css"
