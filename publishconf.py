@@ -50,7 +50,9 @@ TYPOGRIFY = True
 PATH = 'content'
 STATIC_PATHS = ['images', 'extra',]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/favicon.ico': {'path': 'favicon.ico'},}
+                       'extra/favicon.ico': {'path': 'favicon.ico'},
+                       'extra/baidu_verify_an3X8DDsE3': {'path': 'baidu_verify_an3X8DDsE3.html'},
+                       }
 
 # Plugin
 PLUGIN_PATHS = ["/home/cosmoslx/github/pelican-plugins"]
