@@ -43,7 +43,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 
 # Plugin
 PLUGIN_PATHS = ["/home/cosmoslx/github/pelican-plugins"]
-PLUGINS = ["cjk-auto-spacing", "gravatar", "summary","sitemap",]
+PLUGINS = ["cjk-auto-spacing", "gravatar", "summary","sitemap","series",]
 SUMMARY_END_MARKER = "<!-- more -->" # keep compatible with octopress
 SITEMAP = {
     "format": "xml",

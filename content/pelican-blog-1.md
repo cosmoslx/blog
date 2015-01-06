@@ -1,6 +1,9 @@
 Title: 把你的blog从octopress迁移到pelican吧(1)
-Slug: pelican-blog
+Slug: pelican-blog-1
 Category: Tech
+Tags: python, pelican, blog
+Series: 把你的blog从octopress迁移到pelican吧
+Date: 2015-01-04 21:30
 
 在很久很久之前有一个用[octopress][1]在github pages上搭建的blog, octopress提供使用markdown的方式来写blog，非常的方便，而且默认提供的功能和模板也足够的强大。
 然而唯一的缺陷是是使用Ruby及Rake来配置和部署，简单看了一下，感觉比较不易读, 要自定义以及扩展起来比较麻烦，而且产生blog的目录结构也复杂不够直观。
