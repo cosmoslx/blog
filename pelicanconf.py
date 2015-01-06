@@ -27,7 +27,7 @@ SUMMARY_MAX_LENGTH = 20
 # Theme
 #THEME = 'SoMA2'
 #THEME = 'Responsive-Pelican'
-THEME = 'bold'
+THEME = 'pelican-bold'
 #THEME = 'franticworld'
 #THEME = 'fresh'
 TYPOGRIFY = True

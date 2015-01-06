@@ -42,7 +42,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # Theme
 #THEME = 'franticworld'
-THEME = 'bold'
+THEME = 'pelican-bold'
 TYPOGRIFY = True
 #CSS_FILE = "wide.css"
 
