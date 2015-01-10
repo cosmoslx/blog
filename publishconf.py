@@ -16,7 +16,7 @@ AUTHOR_EMAIL = 'cosmoslx@gmail.com'
 #SITENAME = u'Cosmos of Cosmoslx'
 SITENAME = u'A Ordinary Boy, A Marvelous Toy'
 SITESUBTITLE = u'Story about a ordinary boy who want to build a marvelous toy'
-SITESUBTITLES = ('A ordinary boy', 'build a marvelous toy')
+SITESUBTITLES = ('A Ordinary Boy', 'A Marvelous Toy')
 SITEURL = 'http://blog.cosmoslx.me'
 RELATIVE_URLS = False
 
